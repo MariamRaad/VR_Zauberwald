@@ -19,7 +19,7 @@ Interaktionen mit 4 verschiedenen Haupt-Modi:</br>
 - Seifenblasen erzeugen
 - Dosenwerfen, aber mit Fässern :D
 
-Bonus:</b>
+<b>Bonus:</b>
 - Erkundung der Umwelt dank Zauberfähigkeiten, z.B. Interaktionen mit Haus oder Tieren
 
 <!-- ![](Zauberwald.gif) -->
