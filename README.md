@@ -1,24 +1,24 @@
 # VR_Zauberwald
 VR Zauberwald
 ___________________________________
-<b>Tech:<b></br>
+<b>Tech:</b></br>
 Unity, C#, HTC Vive Pro und SteamVR
 
 ___________________________________
 
-Motivation: </br>
+<b>Motivation:</b></br>
 Beim "Zaubern" sind keine Grenzen gesetzt. Im Sinne von "das gibt es doch gar nicht" oder "sowas ist nicht realitätsnah". Beim Zaubern geht alles und man hat unendliche Möglichkeiten etwas umzusetzen.
 ___________________________________
 
-Game Design:
+<b>Game Design:</b>
 - Onboarding mit Hilfe des Zauberers Merlin
-Interaktionen mit 4 verschiedenen Haupt-Modi:
+Interaktionen mit 4 verschiedenen Haupt-Modi:</br>
 - Farbänderung der Umwelt
 - Musik spielen (Schlagzeug, Xylophon)
 - Seifenblasen erzeugen
 - Dosenwerfen, aber mit Fässern :D
 
-Bonus:
+Bonus:</b>
 - Erkundung der Umwelt dank Zauberfähigkeiten, z.B. Interaktionen mit Haus oder Tieren
 
 <!-- ![](Zauberwald.gif) -->
