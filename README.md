@@ -24,4 +24,4 @@ Bonus:</b>
 
 <!-- ![](Zauberwald.gif) -->
 
-<img src="Zauberwald_compressed.gif" width="250" height="250"/>
+<img src="Zauberwald_compressed.gif" width="427" height="240"/>
