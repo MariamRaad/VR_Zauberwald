@@ -21,4 +21,6 @@ Interaktionen mit 4 verschiedenen Haupt-Modi:
 Bonus:
 - Erkundung der Umwelt dank Zauberfähigkeiten, z.B. Interaktionen mit Haus oder Tieren
 
-![](Zauberwald.gif){:height="700px" width="400px"}
+<!-- ![](Zauberwald.gif) -->
+
+<img src="Zauberwald.gif" width="250" height="250"/>
