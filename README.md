@@ -1,5 +1,6 @@
 # VR_Zauberwald
-VR Zauberwald
+VR Zauberwald</br>
+(Sommersemester 2019)
 ___________________________________
 <b>Tech:</b></br>
 Unity, C#, HTC Vive Pro und SteamVR
