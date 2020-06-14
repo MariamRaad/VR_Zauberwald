@@ -11,7 +11,7 @@ Beim "Zaubern" sind keine Grenzen gesetzt. Im Sinne von "das gibt es doch gar ni
 ___________________________________
 
 <b>Game Design:</b>
-- Onboarding mit Hilfe des Zauberers Merlin
+- Onboarding mit Hilfe des Zauberers Merlin</br>
 Interaktionen mit 4 verschiedenen Haupt-Modi:</br>
 - Farbänderung der Umwelt
 - Musik spielen (Schlagzeug, Xylophon)
