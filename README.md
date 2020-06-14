@@ -1,7 +1,7 @@
 # VR_Zauberwald
 VR Zauberwald
 ___________________________________
-Tech:</br>
+<b>Tech:<b></br>
 Unity, C#, HTC Vive Pro und SteamVR
 
 ___________________________________
@@ -23,4 +23,4 @@ Bonus:
 
 <!-- ![](Zauberwald.gif) -->
 
-<img src="Zauberwald.gif" width="250" height="250"/>
+<img src="Zauberwald_compressed.gif" width="250" height="250"/>
