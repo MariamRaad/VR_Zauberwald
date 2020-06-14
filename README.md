@@ -10,8 +10,8 @@ ___________________________________
 Beim "Zaubern" sind keine Grenzen gesetzt. Im Sinne von "das gibt es doch gar nicht" oder "sowas ist nicht realitätsnah". Beim Zaubern geht alles und man hat unendliche Möglichkeiten etwas umzusetzen.
 ___________________________________
 
-<b>Game Design:</b>
-- Onboarding mit Hilfe des Zauberers Merlin</br>
+<b>Game Design:</b></br>
+Onboarding mit Hilfe des Zauberers Merlin</br>
 Interaktionen mit 4 verschiedenen Haupt-Modi:</br>
 - Farbänderung der Umwelt
 - Musik spielen (Schlagzeug, Xylophon)
