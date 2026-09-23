@@ -1,4 +1,4 @@
-# VR_Zauberwald
+# VR Zauberwald
 
 ## Summary
 A VR experience set in a magical forest because magic has no limits ✨.  
