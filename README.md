@@ -1,30 +1,27 @@
 # VR_Zauberwald
-VR Zauberwald</br>
-(Sommersemester 2019)
-___________________________________
-<b>Tech:</b></br>
-Unity, C#, HTC Vive Pro und SteamVR
 
-___________________________________
+## Summary
+A VR experience set in a magical forest because magic has no limits ✨.  
+The idea was to create an experience where things do not have to follow the rules of reality and where seemingly impossible interactions do become possible.
 
-<b>Motivation:</b></br>
-Beim "Zaubern" sind keine Grenzen gesetzt. Im Sinne von "das gibt es doch gar nicht" oder "sowas ist nicht realitätsnah". Beim Zaubern geht alles und man hat unendliche Möglichkeiten etwas umzusetzen.
-___________________________________
+This project was developed during my Master's studies in the summer semester of 2019.
 
-<b>Game Design:</b></br>
-Onboarding mit Hilfe des Zauberers Merlin</br>
+## 📸 Showcase
 
-Interaktionen mit 4 verschiedenen Haupt-Modi:</br>
-- Farbänderung der Umwelt
-- Musik spielen (Schlagzeug, Xylophon)
-- Seifenblasen erzeugen
-- Dosenwerfen, aber mit Fässern :D
-
-<b>Bonus:</b>
-- Erkundung der Umwelt dank Zauberfähigkeiten, z.B. Interaktionen mit Haus oder Tieren
-
-<!-- ![](Zauberwald.gif) -->
-
+<!-- TODO replace with video for sounds -->
 <img src="Zauberwald_compressed.gif" width="427" height="240"/>
 
-Mehr Videos gibt es hier: https://drive.google.com/drive/folders/1OSVdPxlcqfk6G55nlIibKn5-PDx20Md5?usp=sharing
+<!--More videos are here: https://drive.google.com/drive/folders/1OSVdPxlcqfk6G55nlIibKn5-PDx20Md5?usp=sharing -->
+
+## 🛠 Tech Stack
+Unity, C#, HTC Vive Pro, teamVR
+
+### 🎮 Game Design
+<b>Onboarding</b>
+- An introduction to the experience guided by the wizard Merlin.
+
+<b>Interactions</b>
+- Playing musical instruments such as drums and xylophone
+- A barrel-tossing game inspired by classic can throwing
+- Creating soap bubbles
+- Exploring the environment using magical abilities, such as interactions with the house, animals and trees
