@@ -8,9 +8,9 @@ This project was developed during my Master's studies in the summer semester of 
 
 ## 📸 Showcase
 
-<!-- TODO replace with video for sounds -->
-<img src="Zauberwald_compressed.gif" width="427" height="240"/>
+<video src="https://github.com/user-attachments/assets/e07a7ad6-f29e-49c9-b083-14bdaa139d38.mp4"></video>
 
+<!-- <img src="Zauberwald_compressed.gif" width="427" height="240"/> -->
 <!--More videos are here: https://drive.google.com/drive/folders/1OSVdPxlcqfk6G55nlIibKn5-PDx20Md5?usp=sharing -->
 
 ## 🛠 Tech Stack
