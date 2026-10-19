@@ -8,7 +8,8 @@ This project was developed during my Master's studies in the summer semester of 
 
 ## 📸 Showcase
 
-<video src="https://github.com/user-attachments/assets/e07a7ad6-f29e-49c9-b083-14bdaa139d38.mp4"></video>
+<!-- <video src="https://github.com/user-attachments/assets/e07a7ad6-f29e-49c9-b083-14bdaa139d38.mp4"></video> -->
+https://github.com/user-attachments/assets/e07a7ad6-f29e-49c9-b083-14bdaa139d38
 
 <!-- <img src="Zauberwald_compressed.gif" width="427" height="240"/> -->
 <!--More videos are here: https://drive.google.com/drive/folders/1OSVdPxlcqfk6G55nlIibKn5-PDx20Md5?usp=sharing -->
